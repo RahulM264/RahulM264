@@ -21,14 +21,6 @@ I am an aspiring ML Engineer 🤖 depending on what the project requires. I love
 - 📚 &nbsp; When I am free, I watch anime and read fiction novels. 
 
 
-### 📊 Github Stats
-<a href='https://github.com/RahulM264/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/RahulM264/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/RahulM264/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
 <br>
 
 ### 🛠️ My Projects
