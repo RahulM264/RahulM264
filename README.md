@@ -17,7 +17,7 @@ I am an aspiring ML Engineer 🤖 depending on what the project requires. I love
 - 🌱 &nbsp; I’m currently learning ML Algorithms
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RahulM264?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-m-7bb817178/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1hRnd47FMZ-gkNDWg9JYBA6mM2Z7FK4U8/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1qbTHQYCVGN2brCWTtwLoLB4mji6zE4tu/view?usp=sharing)
 - 📚 &nbsp; When I am free, I watch anime and read fiction novels. 
 
 
