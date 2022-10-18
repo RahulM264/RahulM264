@@ -4,7 +4,7 @@
 <a href='https://www.kaggle.com/synchrobeast/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
-I am an aspiring ML Engineer 🤖 depending on what the project requires. I love exploring new tech stack in machine learning and leveraging them to build cool stuffs 🛠️. 
+I am a Data Scientist or a Data Analyst or an MLE 🤖 depending on what the project requires. I love exploring new tech stack in machine learning and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
@@ -17,14 +17,15 @@ I am an aspiring ML Engineer 🤖 depending on what the project requires. I love
 - 🌱 &nbsp; I’m currently learning ML Algorithms
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RahulM264?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-m-7bb817178/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1qbTHQYCVGN2brCWTtwLoLB4mji6zE4tu/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZvBYsLU9BHJjBOhcsEeYX9kwK88jvtvx/view?usp=sharing)
 - 📚 &nbsp; When I am free, I watch anime and read fiction novels. 
 
 
 <br>
 
 ### 🛠️ My Projects
-1. Analysing customer's purchase and building a ML model to predict the customer's next purchase
-2. Analysis of the Historical Axial Age dataset and Twitch Streaming Dataset
-3. Predicting the age of a person based on his app usage
-4. Other small ML projects
+1. Leveraging Machine Learning to predict success rate of startups
+2. Analysing customer's purchase and building a ML model to predict the customer's next purchase
+3. Analysis of the Historical Axial Age dataset and Twitch Streaming Dataset
+4. Predicting the age of a person based on his app usage
+5. Other small ML projects
