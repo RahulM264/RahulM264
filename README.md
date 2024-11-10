@@ -12,13 +12,13 @@ I am a Data Scientist or a Data Analyst or an MLE 🤖 depending on what the pro
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on two projects involved in **NLP and Machine Learning**
-- 🤝 &nbsp; Looking to collaborate on ML projects or hackathons? Ping me in Linkedin
-- 🌱 &nbsp; I’m currently learning ML Algorithms
+- 🔭 &nbsp; I’m currently pursuing masters degree at TU Wien. Domains: **Classical Machine Learning**, **NLP**
+- 🤝 &nbsp; Looking to collaborate or hire? Ping me in Linkedin
+- 🌱 &nbsp; I’m currently venturing into NLP.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RahulM264?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-m-7bb817178/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZvBYsLU9BHJjBOhcsEeYX9kwK88jvtvx/view?usp=sharing)
-- 📚 &nbsp; When I am free, I watch anime and read fiction novels. 
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Hrb4W6SbpHSoyRqBmWYSVP6oRSv3ySHL/view?usp=sharing)
+- 📚 &nbsp; When I am free, I watch tennis and read fiction.
 
 
 <br>
@@ -26,6 +26,5 @@ I am a Data Scientist or a Data Analyst or an MLE 🤖 depending on what the pro
 ### 🛠️ My Projects
 1. Leveraging Machine Learning to predict success rate of startups
 2. Analysing customer's purchase and building a ML model to predict the customer's next purchase
-3. Analysis of the Historical Axial Age dataset and Twitch Streaming Dataset
-4. Predicting the age of a person based on his app usage
-5. Other small ML projects
+3. Adhoc-Analysis of Vehicle Fault Codes on Fleet Fuel Consumption (Company)
+4. Automated End-to-End ETL Pipeline (Company)
