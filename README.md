@@ -17,7 +17,7 @@ I am a Data Scientist or a Data Analyst or an MLE 🤖 depending on what the pro
 - 🌱 &nbsp; I’m currently venturing into NLP.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RahulM264?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-m-7bb817178/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1Hrb4W6SbpHSoyRqBmWYSVP6oRSv3ySHL/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1eUZSC3UO28N54CnI7yP8AzMQLTucHF63/view?usp=sharing)
 - 📚 &nbsp; When I am free, I watch tennis and read fiction.
 
 
